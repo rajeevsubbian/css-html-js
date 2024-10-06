@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "../_PROJECT_STARTER_"
+        },
+        {
+            "path": "."
+        },
+        {
+            "path": "../progress-steps"
+        },
+        {
+            "path": "../rotating-navigation"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "progress-steps"
+    }
+}
