@@ -11,6 +11,9 @@
         },
         {
             "path": "../rotating-navigation"
+        },
+        {
+            "path": "../hidden-search-widget"
         }
     ],
     "settings": {
