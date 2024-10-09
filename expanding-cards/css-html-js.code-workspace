@@ -14,9 +14,15 @@
         },
         {
             "path": "../hidden-search-widget"
+        },
+        {
+            "path": "../blur-img-loading"
+        },
+        {
+            "path": "../scroll-animation"
         }
     ],
     "settings": {
-        "liveServer.settings.multiRootWorkspaceName": "expanding-cards"
+        "liveServer.settings.multiRootWorkspaceName": "blur-img-loading"
     }
 }
