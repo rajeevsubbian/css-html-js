@@ -23,9 +23,12 @@
         },
         {
             "path": "../split-landing-page"
+        },
+        {
+            "path": "../login-formwave"
         }
     ],
     "settings": {
-        "liveServer.settings.multiRootWorkspaceName": "split-landing-page"
+        "liveServer.settings.multiRootWorkspaceName": "login-formwave"
     }
 }
