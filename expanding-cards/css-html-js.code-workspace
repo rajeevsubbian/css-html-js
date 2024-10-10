@@ -20,9 +20,12 @@
         },
         {
             "path": "../scroll-animation"
+        },
+        {
+            "path": "../split-landing-page"
         }
     ],
     "settings": {
-        "liveServer.settings.multiRootWorkspaceName": "blur-img-loading"
+        "liveServer.settings.multiRootWorkspaceName": "split-landing-page"
     }
 }
