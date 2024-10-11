@@ -26,9 +26,12 @@
         },
         {
             "path": "../login-formwave"
+        },
+        {
+            "path": "../sound-board"
         }
     ],
     "settings": {
-        "liveServer.settings.multiRootWorkspaceName": "login-formwave"
+        "liveServer.settings.multiRootWorkspaceName": "sound-board"
     }
 }
