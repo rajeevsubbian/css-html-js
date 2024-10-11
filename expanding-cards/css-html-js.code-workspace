@@ -29,9 +29,12 @@
         },
         {
             "path": "../sound-board"
+        },
+        {
+            "path": "../Jokes"
         }
     ],
     "settings": {
-        "liveServer.settings.multiRootWorkspaceName": "sound-board"
+        "liveServer.settings.multiRootWorkspaceName": "Jokes"
     }
 }
