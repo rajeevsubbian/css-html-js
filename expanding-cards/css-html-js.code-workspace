@@ -41,9 +41,12 @@
         },
         {
             "path": "../random-choice-picker"
+        },
+        {
+            "path": "../animated-navigation"
         }
     ],
     "settings": {
-        "liveServer.settings.multiRootWorkspaceName": "random-choice-picker"
+        "liveServer.settings.multiRootWorkspaceName": "animated-navigation"
     }
 }
