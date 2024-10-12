@@ -32,9 +32,12 @@
         },
         {
             "path": "../Jokes"
+        },
+        {
+            "path": "../event-keycodes"
         }
     ],
     "settings": {
-        "liveServer.settings.multiRootWorkspaceName": "Jokes"
+        "liveServer.settings.multiRootWorkspaceName": "event-keycodes"
     }
 }
