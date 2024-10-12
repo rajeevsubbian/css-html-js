@@ -35,9 +35,12 @@
         },
         {
             "path": "../event-keycodes"
+        },
+        {
+            "path": "../faq"
         }
     ],
     "settings": {
-        "liveServer.settings.multiRootWorkspaceName": "event-keycodes"
+        "liveServer.settings.multiRootWorkspaceName": "faq"
     }
 }
