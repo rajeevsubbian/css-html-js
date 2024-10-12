@@ -38,9 +38,12 @@
         },
         {
             "path": "../faq"
+        },
+        {
+            "path": "../random-choice-picker"
         }
     ],
     "settings": {
-        "liveServer.settings.multiRootWorkspaceName": "faq"
+        "liveServer.settings.multiRootWorkspaceName": "random-choice-picker"
     }
 }
