@@ -44,9 +44,12 @@
         },
         {
             "path": "../animated-navigation"
+        },
+        {
+            "path": "../incrementing-counters"
         }
     ],
     "settings": {
-        "liveServer.settings.multiRootWorkspaceName": "animated-navigation"
+        "liveServer.settings.multiRootWorkspaceName": "incrementing-counters"
     }
 }
