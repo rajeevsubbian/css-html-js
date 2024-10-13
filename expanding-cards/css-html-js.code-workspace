@@ -50,9 +50,12 @@
         },
         {
             "path": "../drink-water"
+        },
+        {
+            "path": "../movies-ui"
         }
     ],
     "settings": {
-        "liveServer.settings.multiRootWorkspaceName": "drink-water"
+        "liveServer.settings.multiRootWorkspaceName": "movies-ui"
     }
 }
