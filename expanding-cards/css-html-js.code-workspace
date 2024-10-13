@@ -53,9 +53,12 @@
         },
         {
             "path": "../movies-ui"
+        },
+        {
+            "path": "../background-slider"
         }
     ],
     "settings": {
-        "liveServer.settings.multiRootWorkspaceName": "movies-ui"
+        "liveServer.settings.multiRootWorkspaceName": "background-slider"
     }
 }
