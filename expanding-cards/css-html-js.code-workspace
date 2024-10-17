@@ -56,9 +56,12 @@
         },
         {
             "path": "../background-slider"
+        },
+        {
+            "path": "../theme-clock"
         }
     ],
     "settings": {
-        "liveServer.settings.multiRootWorkspaceName": "background-slider"
+        "liveServer.settings.multiRootWorkspaceName": "theme-clock"
     }
 }
