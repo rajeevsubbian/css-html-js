@@ -59,9 +59,12 @@
         },
         {
             "path": "../theme-clock"
+        },
+        {
+            "path": "../button-ripple"
         }
     ],
     "settings": {
-        "liveServer.settings.multiRootWorkspaceName": "theme-clock"
+        "liveServer.settings.multiRootWorkspaceName": "button-ripple"
     }
 }
