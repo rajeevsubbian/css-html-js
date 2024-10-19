@@ -62,9 +62,12 @@
         },
         {
             "path": "../button-ripple"
+        },
+        {
+            "path": "../drag-n-drop"
         }
     ],
     "settings": {
-        "liveServer.settings.multiRootWorkspaceName": "button-ripple"
+        "liveServer.settings.multiRootWorkspaceName": "drag-n-drop"
     }
 }
