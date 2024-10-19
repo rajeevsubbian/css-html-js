@@ -68,9 +68,12 @@
         },
         {
             "path": "../drawing-app"
+        },
+        {
+            "path": "../kinetic-css-loader"
         }
     ],
     "settings": {
-        "liveServer.settings.multiRootWorkspaceName": "drawing-app"
+        "liveServer.settings.multiRootWorkspaceName": "kinetic-css-loader"
     }
 }
