@@ -65,9 +65,12 @@
         },
         {
             "path": "../drag-n-drop"
+        },
+        {
+            "path": "../drawing-app"
         }
     ],
     "settings": {
-        "liveServer.settings.multiRootWorkspaceName": "drag-n-drop"
+        "liveServer.settings.multiRootWorkspaceName": "drawing-app"
     }
 }
