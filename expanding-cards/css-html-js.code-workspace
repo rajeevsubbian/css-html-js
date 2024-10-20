@@ -71,9 +71,12 @@
         },
         {
             "path": "../kinetic-css-loader"
+        },
+        {
+            "path": "../content-placeholder"
         }
     ],
     "settings": {
-        "liveServer.settings.multiRootWorkspaceName": "kinetic-css-loader"
+        "liveServer.settings.multiRootWorkspaceName": "content-placeholder"
     }
 }
