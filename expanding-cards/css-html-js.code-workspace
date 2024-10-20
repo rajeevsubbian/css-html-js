@@ -77,9 +77,12 @@
         },
         {
             "path": "../sticky-navbar"
+        },
+        {
+            "path": "../double-vertical-slider"
         }
     ],
     "settings": {
-        "liveServer.settings.multiRootWorkspaceName": "sticky-navbar"
+        "liveServer.settings.multiRootWorkspaceName": "double-vertical-slider"
     }
 }
