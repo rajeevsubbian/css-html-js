@@ -74,9 +74,12 @@
         },
         {
             "path": "../content-placeholder"
+        },
+        {
+            "path": "../sticky-navbar"
         }
     ],
     "settings": {
-        "liveServer.settings.multiRootWorkspaceName": "content-placeholder"
+        "liveServer.settings.multiRootWorkspaceName": "sticky-navbar"
     }
 }
