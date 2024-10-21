@@ -80,9 +80,12 @@
         },
         {
             "path": "../double-vertical-slider"
+        },
+        {
+            "path": "../create-toast-notifications"
         }
     ],
     "settings": {
-        "liveServer.settings.multiRootWorkspaceName": "double-vertical-slider"
+        "liveServer.settings.multiRootWorkspaceName": "create-toast-notifications"
     }
 }
