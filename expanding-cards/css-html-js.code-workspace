@@ -1,94 +1,97 @@
 {
-    "folders": [
-        {
-            "path": "../_PROJECT_STARTER_"
-        },
-        {
-            "path": "."
-        },
-        {
-            "path": "../progress-steps"
-        },
-        {
-            "path": "../rotating-navigation"
-        },
-        {
-            "path": "../hidden-search-widget"
-        },
-        {
-            "path": "../blur-img-loading"
-        },
-        {
-            "path": "../scroll-animation"
-        },
-        {
-            "path": "../split-landing-page"
-        },
-        {
-            "path": "../login-formwave"
-        },
-        {
-            "path": "../sound-board"
-        },
-        {
-            "path": "../Jokes"
-        },
-        {
-            "path": "../event-keycodes"
-        },
-        {
-            "path": "../faq"
-        },
-        {
-            "path": "../random-choice-picker"
-        },
-        {
-            "path": "../animated-navigation"
-        },
-        {
-            "path": "../incrementing-counters"
-        },
-        {
-            "path": "../drink-water"
-        },
-        {
-            "path": "../movies-ui"
-        },
-        {
-            "path": "../background-slider"
-        },
-        {
-            "path": "../theme-clock"
-        },
-        {
-            "path": "../button-ripple"
-        },
-        {
-            "path": "../drag-n-drop"
-        },
-        {
-            "path": "../drawing-app"
-        },
-        {
-            "path": "../kinetic-css-loader"
-        },
-        {
-            "path": "../content-placeholder"
-        },
-        {
-            "path": "../sticky-navbar"
-        },
-        {
-            "path": "../double-vertical-slider"
-        },
-        {
-            "path": "../create-toast-notifications"
-        },
-        {
-            "path": "../github-profiles"
-        }
-    ],
-    "settings": {
-        "liveServer.settings.multiRootWorkspaceName": "github-profiles"
+  "folders": [
+    {
+      "path": "../_PROJECT_STARTER_"
+    },
+    {
+      "path": "."
+    },
+    {
+      "path": "../progress-steps"
+    },
+    {
+      "path": "../rotating-navigation"
+    },
+    {
+      "path": "../hidden-search-widget"
+    },
+    {
+      "path": "../blur-img-loading"
+    },
+    {
+      "path": "../scroll-animation"
+    },
+    {
+      "path": "../split-landing-page"
+    },
+    {
+      "path": "../login-formwave"
+    },
+    {
+      "path": "../sound-board"
+    },
+    {
+      "path": "../Jokes"
+    },
+    {
+      "path": "../event-keycodes"
+    },
+    {
+      "path": "../faq"
+    },
+    {
+      "path": "../random-choice-picker"
+    },
+    {
+      "path": "../animated-navigation"
+    },
+    {
+      "path": "../incrementing-counters"
+    },
+    {
+      "path": "../drink-water"
+    },
+    {
+      "path": "../movies-ui"
+    },
+    {
+      "path": "../background-slider"
+    },
+    {
+      "path": "../theme-clock"
+    },
+    {
+      "path": "../button-ripple"
+    },
+    {
+      "path": "../drag-n-drop"
+    },
+    {
+      "path": "../drawing-app"
+    },
+    {
+      "path": "../kinetic-css-loader"
+    },
+    {
+      "path": "../content-placeholder"
+    },
+    {
+      "path": "../sticky-navbar"
+    },
+    {
+      "path": "../double-vertical-slider"
+    },
+    {
+      "path": "../create-toast-notifications"
+    },
+    {
+      "path": "../github-profiles"
+    },
+    {
+      "path": "../double-heart-click"
     }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "double-heart-click"
+  }
 }
