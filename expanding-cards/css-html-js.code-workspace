@@ -89,9 +89,12 @@
     },
     {
       "path": "../double-heart-click"
+    },
+    {
+      "path": "../auto-text-effect"
     }
   ],
   "settings": {
-    "liveServer.settings.multiRootWorkspaceName": "double-heart-click"
+    "liveServer.settings.multiRootWorkspaceName": "auto-text-effect"
   }
 }
