@@ -92,9 +92,12 @@
     },
     {
       "path": "../auto-text-effect"
+    },
+    {
+      "path": "../password-generator"
     }
   ],
   "settings": {
-    "liveServer.settings.multiRootWorkspaceName": "auto-text-effect"
+    "liveServer.settings.multiRootWorkspaceName": "password-generator"
   }
 }
