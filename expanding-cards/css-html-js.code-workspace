@@ -95,9 +95,12 @@
     },
     {
       "path": "../password-generator"
+    },
+    {
+      "path": "../good-cheap-fast"
     }
   ],
   "settings": {
-    "liveServer.settings.multiRootWorkspaceName": "password-generator"
+    "liveServer.settings.multiRootWorkspaceName": "good-cheap-fast"
   }
 }
